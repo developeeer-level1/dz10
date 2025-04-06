@@ -73,6 +73,7 @@
                 }
                 else Console.WriteLine("Product not found!");
             }
+            Console.ReadLine();
         }
     }
 }
